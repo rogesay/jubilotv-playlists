@@ -4,7 +4,7 @@
 # JUBILO TV
 #################################################
 
-#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Jubilo TV",Júbilo TV (720p)
+#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Cristianos",Júbilo TV (720p)
 http://173.249.60.54/hls/jubilotv.m3u8
 
 #################################################
