@@ -443,3 +443,41 @@ http://45.186.106.207:8000/play/a08i/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento",Warner
 http://45.186.106.207:8000/play/a01l/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD",Agape TV (720p)
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ArboldeVidaTV.sv@SD",Árbol de Vida TV (240p) [Not 24/7]
+https://yupistream.top:19360/livearbol/livearbol.m3u8
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD",Canal 10 (720p)
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD",Canal 11 TuTV (349p)
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv@SD",Canal 12 (220p)
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal26TVIAP.sv@SD",Canal 26 TV IAP (1080p)
+https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
+#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD",El Camino TV (480p)
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="JosueTV.sv@SD",Josué TV (1080p)
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv@SD",Legislative Assembly of El Salvador (1080p) [Not 24/7]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD",Megavisión Canal 19 (720p)
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD",Megavisión Canal 21 (720p)
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="RTVCanal57.sv@SD",RTV Canal 57 (720p)
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+#EXTINF:-1 tvg-id="TaberTV.sv@SD",Taber TV (1080p)
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv@SD",Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 tvg-id="TVCRET.sv@SD",TV CRET (1080p)
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:-1 tvg-id="TVLeondeJuda.sv@SD",TV León de Judá (720p)
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv@SD",WOW TV (1080p)
+https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
