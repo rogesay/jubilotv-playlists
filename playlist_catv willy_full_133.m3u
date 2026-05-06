@@ -1,0 +1,448 @@
+#EXTM3U
+
+#################################################
+# JUBILO TV
+#################################################
+
+#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Jubilo TV",Júbilo TV (720p)
+http://173.249.60.54/hls/jubilotv.m3u8
+
+#################################################
+# CRISTIANOS
+#################################################
+
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Cristianos",Amigos TV Chiquimula (480p)
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+
+#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Cristianos",Canal 30 TV Bethel (720p) [Not 24/7]
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+
+#EXTINF:-1 tvg-id="ElRoiTV.gt@SD" tvg-logo="https://i.imgur.com/h8S0eA4.png" group-title="Cristianos",El-Roi TV (720p)
+https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
+
+#EXTINF:-1 tvg-id="IglesiaDelCamino.gt@SD" tvg-logo="https://i.imgur.com/vHfb3Z4.png" group-title="Cristianos",Iglesia Del Camino (480p) [Not 24/7]
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Cristianos",Peniel Kids & Young (480p)
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+
+#EXTINF:-1 tvg-id="PenielMusical.gt@SD" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Cristianos",Peniel Musical (480p)
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+
+#EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt@SD" tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png" group-title="Cristianos",Peniel TV Biblia Abierta (480p)
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+
+#EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Cristianos",Rhema TV (720p)
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+
+#EXTINF:-1 group-title="Cristianos",CANAL PENIEL
+http://45.186.106.207:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 group-title="Cristianos",EWTN
+http://45.186.106.207:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="Cristianos",RHEMA TV
+http://45.186.106.207:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 group-title="Cristianos",Sembrador
+http://45.186.106.207:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 group-title="Cristianos",TBN Enlace
+http://45.186.106.207:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Cristianos", Alcance TV | MX
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+
+#################################################
+# GUATEMALA
+#################################################
+
+#EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish (720p)
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BarbeTV.gt@SD" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Guatemala",Canal 9 Barbe TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt@SD" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala",Canal 13 Esquipulas (720p)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Guatemala",Maxivisión TV (720p)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="Guatemala",Multivisión Canal 3 (720p) [Not 24/7]
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+
+#EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Guatemala",Multivisión Sports (720p) [Not 24/7]
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+
+#EXTINF:-1 tvg-id="NimTV.gt@SD" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Guatemala",Nim TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="SASTV.gt@SD" tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Guatemala",SAS TV (720p)
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" http-referrer="https://www.facebook.com/Siltv32" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome" group-title="Guatemala",SIL TV (1080p)
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV (720p)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Telecosta.gt@SD" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Guatemala",Telecosta (720p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-id="TVFlorencia.gt@SD" tvg-logo="https://i.imgur.com/jsbwnRb.png" group-title="Guatemala",TV Florencia (720p)
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+#EXTINF:-1 tvg-id="TVMaya.gt@SD" tvg-logo="https://i.imgur.com/BGFa4OO.png" group-title="Guatemala",TV Maya (480p)
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSRetro.gt@SD" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Guatemala",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="VisionTV.gt@SD" tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="Guatemala",Visión TV (720p)
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 group-title="Guatemala",Canal 11 - GUA
+http://45.186.106.207:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="Guatemala",Canal 13-GUA
+http://45.186.106.207:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title="Guatemala",Canal 3 - GUA
+http://45.186.106.207:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="Guatemala",Canal 7 - GUA
+http://45.186.106.207:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 group-title="Guatemala",Canal Antigua - GUA
+http://45.186.106.207:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="Guatemala",Canal Azteca - GUA
+http://45.186.106.207:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="Guatemala",Guatevision - GUA
+http://45.186.106.207:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="668" tvg-name="Multimedios Guadalajara" tvg-logo="https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png" group-title="Guatemala", Multimedios Guadalajara | MX
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
+
+#################################################
+# NOTICIAS
+#################################################
+
+#EXTINF:-1 group-title="Noticias",BBC News
+http://45.186.106.207:8000/play/a092/index.m3u8
+
+#EXTINF:-1 group-title="Noticias",CARTOON NT HD
+http://45.186.106.207:8000/play/a07l/index.m3u8
+
+#EXTINF:-1 group-title="Noticias",CNN EN ESPAÑOL
+http://45.186.106.207:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="Noticias",CNN Internacional
+http://45.186.106.207:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 group-title="Noticias",Cartoon Network
+http://45.186.106.207:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="Noticias",Cartoonito
+http://45.186.106.207:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="Noticias",Concert Channel
+http://45.186.106.207:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 group-title="Noticias",Film & Arts
+http://45.186.106.207:8000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png" group-title="Noticias", ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://cdn.m3u.cl/logo/676_RTQ_Queretaro.png" group-title="Noticias", RTQ Queretaro | MX
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" group-title="Noticias", SIZART Canal 24 Zacatecas | MX
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="656" tvg-name="TV4 Noticias" tvg-logo="https://cdn.m3u.cl/logo/656_TV4_Noticias.png" group-title="Noticias", TV4 Noticias | MX
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_Noticias.png" group-title="Noticias", AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1174" tvg-name="Canal 66 El Canal de las Noticias" tvg-logo="https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png" group-title="Noticias", Canal 66 El Canal de las Noticias | MX
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
+
+#################################################
+# DEPORTES
+#################################################
+
+#EXTINF:-1 group-title="Deportes",Claro Sports 1 HD
+http://45.186.106.207:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN
+http://45.186.106.207:8000/play/a093/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://45.186.106.207:8000/play/a08r/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://45.186.106.207:8000/play/a08s/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN HD
+http://45.186.106.207:8000/play/a08w/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",LA LIGA
+http://45.186.106.207:8000/play/a09h/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",TUDN
+http://45.186.106.207:8000/play/a099/index.m3u8
+
+#################################################
+# PELICULAS
+#################################################
+
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Peliculas",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 group-title="Peliculas",AMC
+http://45.186.106.207:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",AMC HD
+http://45.186.106.207:8000/play/a07y/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",CINECANAL HD
+http://45.186.106.207:8000/play/a020/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Cine Latino
+http://45.186.106.207:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",CineCanal
+http://45.186.106.207:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",CineMax
+http://45.186.106.207:8000/play/a03y/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Golden
+http://45.186.106.207:8000/play/a019/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",HBO HD
+http://45.186.106.207:8000/play/a07m/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Studio Universal
+http://45.186.106.207:8000/play/a02k/index.m3u8
+
+#################################################
+# INFANTILES
+#################################################
+
+#EXTINF:-1 group-title="Infantiles",Baby First
+http://45.186.106.207:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Baby TV
+http://45.186.106.207:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Disney
+http://45.186.106.207:8000/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Disney JR
+http://45.186.106.207:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Tooncast
+http://45.186.106.207:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",ZooMoo
+http://45.186.106.207:8000/play/a06h/index.m3u8
+
+#################################################
+# DOCUMENTALES
+#################################################
+
+#EXTINF:-1 group-title="Documentales",Animal Planet
+http://45.186.106.207:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Animal Planet HD
+http://45.186.106.207:8000/play/a07u/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Channel
+http://45.186.106.207:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Channel HD
+http://45.186.106.207:8000/play/a075/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Home & Health
+http://45.186.106.207:8000/play/a029/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Kids
+http://45.186.106.207:8000/play/a024/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",History Channel
+http://45.186.106.207:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",History HD
+http://45.186.106.207:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",National Geographic
+http://45.186.106.207:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",TLC
+http://45.186.106.207:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales", PRIDEtv Latam | CL
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales", PRIDEtv Latam | CL
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+#################################################
+# MUSICA
+#################################################
+
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musica", Mundo de la Musica TV ✪ | CL
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Musica", Recuerdos Retro Radio TV ✪ | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="Musica", Teleritmo | MX
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png" group-title="Musica", UMTV | MX
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+
+#################################################
+# MEXICO
+#################################################
+
+#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png" group-title="Mexico", Conecta TV ✪ | MX
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="642" tvg-name="8 NTV" tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png" group-title="Mexico", 8 NTV | MX
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="660" tvg-name="Canal 10 Chiapas" tvg-logo="https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png" group-title="Mexico", Canal 10 Chiapas | MX
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1409" tvg-name="GikTVMX" tvg-logo="https://cdn.m3u.cl/logo/1409_GikTVMX.png" group-title="Mexico", GikTVMX | MX
+https://pistream.ddns.net/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="652" tvg-name="Mexiquense TV" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png" group-title="Mexico", Mexiquense TV | MX
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png" group-title="Mexico", Multimedios CDMX | MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="669" tvg-name="Multimedios Laguna" tvg-logo="https://cdn.m3u.cl/logo/669_Multimedios_Laguna.png" group-title="Mexico", Multimedios Laguna | MX
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="670" tvg-name="Multimedios Monterrey" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png" group-title="Mexico", Multimedios Monterrey | MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://cdn.m3u.cl/logo/673_RCG_1_Saltillo.png" group-title="Mexico", RCG 1 Saltillo | MX
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1606" tvg-name="Tempus Stream" tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" group-title="Mexico", Tempus Stream | MX
+https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png" group-title="Mexico", Transmedia TV Morelia | MX
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="651" tvg-name="TVP Culiacan" tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png" group-title="Mexico", TVP Culiacan | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="648" tvg-name="TVP Los Mochis" tvg-logo="https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png" group-title="Mexico", TVP Los Mochis | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="649" tvg-name="TVP Mazatlan" tvg-logo="https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png" group-title="Mexico", TVP Mazatlan | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://cdn.m3u.cl/logo/650_TVP_Obregon.png" group-title="Mexico", TVP Obregon | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
+
+#################################################
+# CHILE
+#################################################
+
+#EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png" group-title="Chile", Suyai TV | CL
+https://cl-2.backend.energeek.cl/SuyaiTV-Neo/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+#################################################
+# ENTRETENIMIENTO
+#################################################
+
+#EXTINF:-1 group-title="Entretenimiento",A&E
+http://45.186.106.207:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",A&E HD
+http://45.186.106.207:8000/play/a07x/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",AXN
+http://45.186.106.207:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",AXN HD
+http://45.186.106.207:8000/play/a02p/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",AZ click HD
+http://45.186.106.207:8000/play/a084/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Antena 3
+http://45.186.106.207:8000/play/a06j/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Atres Series
+http://45.186.106.207:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Azcorazon
+http://45.186.106.207:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Azmundo
+http://45.186.106.207:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",CANAL 4 DM
+http://45.186.106.207:8000/play/a08g/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",CANAL 5
+http://45.186.106.207:8000/play/a03g/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",CANAL DE LAS ESTRELLAS
+http://45.186.106.207:8000/play/a098/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",DHE
+http://45.186.106.207:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",DHE HD
+http://45.186.106.207:8000/play/a083/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",DISTRITO COMEDIA
+http://45.186.106.207:8000/play/a038/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",E
+http://45.186.106.207:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",FX
+http://45.186.106.207:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",SONY
+http://45.186.106.207:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",SPACE
+http://45.186.106.207:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",STAR CHANNEL
+http://45.186.106.207:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",TNT
+http://45.186.106.207:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",TNT Series
+http://45.186.106.207:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Telemundo
+http://45.186.106.207:8000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Universal
+http://45.186.106.207:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",WARNER HD
+http://45.186.106.207:8000/play/a08i/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Warner
+http://45.186.106.207:8000/play/a01l/index.m3u8
