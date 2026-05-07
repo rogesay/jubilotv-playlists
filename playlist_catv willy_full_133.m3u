@@ -23,6 +23,10 @@ https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-id="865" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Cristianos",Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guatemala",Canal Antigua
+https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",Canal Antigua
+https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt@SD" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Guatemala",Canal 9 Barbe TV
