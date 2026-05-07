@@ -35,10 +35,6 @@ https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Cristianos", Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 
-#################################################
-# GUATEMALA
-#################################################
-
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish (720p)
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 
@@ -87,11 +83,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="668" tvg-name="Multimedios Guadalajara" tvg-logo="https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png" group-title="Guatemala", Multimedios Guadalajara | MX
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
 
-#################################################
-# NOTICIAS
-#################################################
-
-
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png" group-title="Noticias", ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 
@@ -110,34 +101,14 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 #EXTINF:-1 tvg-id="1174" tvg-name="Canal 66 El Canal de las Noticias" tvg-logo="https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png" group-title="Noticias", Canal 66 El Canal de las Noticias | MX
 https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
 
-#################################################
-# DEPORTES
-#################################################
-
-#################################################
-# PELICULAS
-#################################################
-
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Peliculas",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
-#################################################
-# INFANTILES
-#################################################
-
-#################################################
-# DOCUMENTALES
-#################################################
-
 #EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales", PRIDEtv Latam | CL
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales", PRIDEtv Latam | CL
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#################################################
-# MUSICA
-#################################################
 
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musica", Mundo de la Musica TV ✪ | CL
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
@@ -150,10 +121,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png" group-title="Musica", UMTV | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
-
-#################################################
-# MEXICO
-#################################################
 
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png" group-title="Mexico", Conecta TV ✪ | MX
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
@@ -200,20 +167,8 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.
 #EXTINF:-1 tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://cdn.m3u.cl/logo/650_TVP_Obregon.png" group-title="Mexico", TVP Obregon | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
 
-#################################################
-# CHILE
-#################################################
-
 #EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png" group-title="Chile", Suyai TV | CL
 https://cl-2.backend.energeek.cl/SuyaiTV-Neo/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#################################################
-# ENTRETENIMIENTO
-#################################################
-
-#################################################
-# EL SALVADOR
-#################################################
 
 #EXTINF:-1 group-title="El Salvador",Agape TV - SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
