@@ -1,338 +1,221 @@
 #EXTM3U
-
-#################################################
-# JUBILO TV
-#################################################
-
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Cristianos",Júbilo TV
-http://173.249.60.54/hls/jubilotv.m3u8 
-
+http://173.249.60.54/hls/jubilotv.m3u8
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Guatemala",Júbilo TV
 http://173.249.60.54/hls/jubilotv.m3u8
-
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Solola",Júbilo TV
 http://173.249.60.54/hls/jubilotv.m3u8
-
-#################################################
-# CRISTIANOS
-#################################################
-
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Cristianos",Amigos TV Chiquimula
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-
-#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Cristianos",Canal 30 TV Bethel  [Not 24/7]
+#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Cristianos",Canal 30 TV Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-
-#EXTINF:-1 tvg-id="IglesiaDelCamino.gt@SD" tvg-logo="https://i.imgur.com/vHfb3Z4.png" group-title="Cristianos",Iglesia Del Camino [Not 24/7]
+#EXTINF:-1 tvg-id="IglesiaDelCamino.gt@SD" tvg-logo="https://i.imgur.com/vHfb3Z4.png" group-title="Cristianos",Iglesia Del Camino
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Cristianos",Peniel Kids & Young
 https://s.emisoras.tv:8081/penielkids/index.m3u8
-
 #EXTINF:-1 tvg-id="PenielMusical.gt@SD" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Cristianos",Peniel Musical
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
-
 #EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt@SD" tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png" group-title="Cristianos",Peniel TV Biblia Abierta
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
-
 #EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Cristianos",Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-
-#EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Cristianos", Alcance TV | MX
+#EXTINF:-1 tvg-id="865" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Cristianos",Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish (720p)
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BarbeTV.gt@SD" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Guatemala",Canal 9 Barbe TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt@SD" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala",Canal 13 Esquipulas (720p)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-
-#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Guatemala",Maxivisión TV 
+#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Guatemala",Maxivisión TV
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="Guatemala",Multivisión Canal 3 [Not 24/7]
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-
 #EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Guatemala",Multivisión Sports [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-
 #EXTINF:-1 tvg-id="NimTV.gt@SD" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Guatemala",Nim TV [Not 24/7]
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="SASTV.gt@SD" tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Guatemala",SAS TV 
+#EXTINF:-1 tvg-id="SASTV.gt@SD" tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Guatemala",SAS TV
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" http-referrer="https://www.facebook.com/Siltv32" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome" group-title="Guatemala",SIL TV (1080p)
+#EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" group-title="Guatemala",SIL TV (1080p)
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV 
+#EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-
 #EXTINF:-1 tvg-id="Telecosta.gt@SD" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Guatemala",Telecosta (720p)
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
-#EXTINF:-1 tvg-id="TVFlorencia.gt@SD" tvg-logo="https://i.imgur.com/jsbwnRb.png" group-title="Guatemala",TV Florencia 
+#EXTINF:-1 tvg-id="TVFlorencia.gt@SD" tvg-logo="https://i.imgur.com/jsbwnRb.png" group-title="Guatemala",TV Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
-
 #EXTINF:-1 tvg-id="TVMaya.gt@SD" tvg-logo="https://i.imgur.com/BGFa4OO.png" group-title="Guatemala",TV Maya
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVSRetro.gt@SD" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Guatemala",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
 #EXTINF:-1 tvg-id="VisionTV.gt@SD" tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="Guatemala",Visión TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 tvg-id="668" tvg-name="Multimedios Guadalajara" tvg-logo="https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png" group-title="Guatemala", Multimedios Guadalajara | MX
+#EXTINF:-1 tvg-id="668" tvg-logo="https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png" group-title="Guatemala",Multimedios Guadalajara | MX
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png" group-title="Noticias", ADN 40 | MX
+#EXTINF:-1 tvg-id="658" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png" group-title="Noticias",ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://cdn.m3u.cl/logo/676_RTQ_Queretaro.png" group-title="Noticias", RTQ Queretaro | MX
+#EXTINF:-1 tvg-id="676" tvg-logo="https://cdn.m3u.cl/logo/676_RTQ_Queretaro.png" group-title="Noticias",RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" group-title="Noticias", SIZART Canal 24 Zacatecas | MX
+#EXTINF:-1 tvg-id="646" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" group-title="Noticias",SIZART Canal 24 Zacatecas | MX
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="656" tvg-name="TV4 Noticias" tvg-logo="https://cdn.m3u.cl/logo/656_TV4_Noticias.png" group-title="Noticias", TV4 Noticias | MX
+#EXTINF:-1 tvg-id="656" tvg-logo="https://cdn.m3u.cl/logo/656_TV4_Noticias.png" group-title="Noticias",TV4 Noticias | MX
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_Noticias.png" group-title="Noticias", AMX Noticias | MX
+#EXTINF:-1 tvg-id="1042" tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_Noticias.png" group-title="Noticias",AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1174" tvg-name="Canal 66 El Canal de las Noticias" tvg-logo="https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png" group-title="Noticias", Canal 66 El Canal de las Noticias | MX
+#EXTINF:-1 tvg-id="1174" tvg-logo="https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png" group-title="Noticias",Canal 66 El Canal de las Noticias | MX
 https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Peliculas",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
-#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales", PRIDEtv Latam | CL
+#EXTINF:-1 tvg-id="1692" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales",PRIDEtv Latam | CL
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales", PRIDEtv Latam | CL
+#EXTINF:-1 tvg-id="1692" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Documentales",PRIDEtv Latam | CL
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musica", Mundo de la Musica TV ✪ | CL
+#EXTINF:-1 tvg-id="771" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musica",Mundo de la Musica TV ✪ | CL
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Musica", Recuerdos Retro Radio TV ✪ | CL
+#EXTINF:-1 tvg-id="521" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Musica",Recuerdos Retro Radio TV ✪ | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="Musica", Teleritmo | MX
+#EXTINF:-1 tvg-id="680" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="Musica",Teleritmo | MX
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png" group-title="Musica", UMTV | MX
+#EXTINF:-1 tvg-id="641" tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png" group-title="Musica",UMTV | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png" group-title="Mexico", Conecta TV ✪ | MX
+#EXTINF:-1 tvg-id="16" tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png" group-title="Mexico",Conecta TV ✪ | MX
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="642" tvg-name="8 NTV" tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png" group-title="Mexico", 8 NTV | MX
+#EXTINF:-1 tvg-id="642" tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png" group-title="Mexico",8 NTV | MX
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="660" tvg-name="Canal 10 Chiapas" tvg-logo="https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png" group-title="Mexico", Canal 10 Chiapas | MX
+#EXTINF:-1 tvg-id="660" tvg-logo="https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png" group-title="Mexico",Canal 10 Chiapas | MX
 https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1409" tvg-name="GikTVMX" tvg-logo="https://cdn.m3u.cl/logo/1409_GikTVMX.png" group-title="Mexico", GikTVMX | MX
+#EXTINF:-1 tvg-id="1409" tvg-logo="https://cdn.m3u.cl/logo/1409_GikTVMX.png" group-title="Mexico",GikTVMX | MX
 https://pistream.ddns.net/hls/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="652" tvg-name="Mexiquense TV" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png" group-title="Mexico", Mexiquense TV | MX
+#EXTINF:-1 tvg-id="652" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png" group-title="Mexico",Mexiquense TV | MX
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png" group-title="Mexico", Multimedios CDMX | MX
+#EXTINF:-1 tvg-id="667" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png" group-title="Mexico",Multimedios CDMX | MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="669" tvg-name="Multimedios Laguna" tvg-logo="https://cdn.m3u.cl/logo/669_Multimedios_Laguna.png" group-title="Mexico", Multimedios Laguna | MX
+#EXTINF:-1 tvg-id="669" tvg-logo="https://cdn.m3u.cl/logo/669_Multimedios_Laguna.png" group-title="Mexico",Multimedios Laguna | MX
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="670" tvg-name="Multimedios Monterrey" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png" group-title="Mexico", Multimedios Monterrey | MX
+#EXTINF:-1 tvg-id="670" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png" group-title="Mexico",Multimedios Monterrey | MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://cdn.m3u.cl/logo/673_RCG_1_Saltillo.png" group-title="Mexico", RCG 1 Saltillo | MX
+#EXTINF:-1 tvg-id="673" tvg-logo="https://cdn.m3u.cl/logo/673_RCG_1_Saltillo.png" group-title="Mexico",RCG 1 Saltillo | MX
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1606" tvg-name="Tempus Stream" tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" group-title="Mexico", Tempus Stream | MX
+#EXTINF:-1 tvg-id="1606" tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" group-title="Mexico",Tempus Stream | MX
 https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png" group-title="Mexico", Transmedia TV Morelia | MX
+#EXTINF:-1 tvg-id="681" tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png" group-title="Mexico",Transmedia TV Morelia | MX
 https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="651" tvg-name="TVP Culiacan" tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png" group-title="Mexico", TVP Culiacan | MX
+#EXTINF:-1 tvg-id="651" tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png" group-title="Mexico",TVP Culiacan | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="648" tvg-name="TVP Los Mochis" tvg-logo="https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png" group-title="Mexico", TVP Los Mochis | MX
+#EXTINF:-1 tvg-id="648" tvg-logo="https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png" group-title="Mexico",TVP Los Mochis | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="649" tvg-name="TVP Mazatlan" tvg-logo="https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png" group-title="Mexico", TVP Mazatlan | MX
+#EXTINF:-1 tvg-id="649" tvg-logo="https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png" group-title="Mexico",TVP Mazatlan | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://cdn.m3u.cl/logo/650_TVP_Obregon.png" group-title="Mexico", TVP Obregon | MX
+#EXTINF:-1 tvg-id="650" tvg-logo="https://cdn.m3u.cl/logo/650_TVP_Obregon.png" group-title="Mexico",TVP Obregon | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png" group-title="Chile", Suyai TV | CL
+#EXTINF:-1 tvg-id="1288" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png" group-title="Chile",Suyai TV | CL
 https://cl-2.backend.energeek.cl/SuyaiTV-Neo/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="El Salvador",Árbol de Vida TV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Árbol de Vida TV - SV
 https://yupistream.top:19360/livearbol/livearbol.m3u8
-
-#EXTINF:-1 group-title="Cristianos",Árbol de Vida TV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cristianos",Árbol de Vida TV - SV
 https://yupistream.top:19360/livearbol/livearbol.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Canal 3 Impresionante - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Canal 3 Impresionante - SV
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Canal 10 - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Canal 10 - SV
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Canal 11 TuTV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Canal 11 TuTV - SV
 https://stream.giostreaming.app/canal11/canal11.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Canal 12 - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Canal 12 - SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Canal 26 TV IAP - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Canal 26 TV IAP - SV
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
-
-#EXTINF:-1 group-title="El Salvador",El Camino TV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",El Camino TV - SV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Josué TV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Josué TV - SV
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-
-#EXTINF:-1 group-title="Cristianos",Josué TV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cristianos",Josué TV - SV
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Megavisión Canal 19 - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Megavisión Canal 19 - SV
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Megavisión Canal 21 - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Megavisión Canal 21 - SV
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 group-title="El Salvador",RTV Canal 57 - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",RTV Canal 57 - SV
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Taber TV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Taber TV - SV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-
-#EXTINF:-1 group-title="El Salvador",Tigo Sports - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",Tigo Sports - SV
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-
-#EXTINF:-1 group-title="Deportes",Tigo Sports - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Tigo Sports - SV
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-
-#EXTINF:-1 group-title="El Salvador",TV CRET - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",TV CRET - SV
 https://radiocret.net:8082/hls/tvcret.m3u8
-
-#EXTINF:-1 group-title="El Salvador",TV León de Judá - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",TV León de Judá - SV
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-
-#EXTINF:-1 group-title="El Salvador",WOW TV - SV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="El Salvador",WOW TV - SV
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="AlsaciasTelevision.honduras",Alsacias Televisión ATV Canal 28
+#EXTINF:-1 tvg-id="AlsaciasTelevision.honduras" tvg-logo="" group-title="Honduras",Alsacias Televisión ATV Canal 28
 https://s.emisoras.tv:8081/atv/index.m3u8
-
-#EXTINF:-1 tvg-id="CampusTV.honduras",Campus TV
+#EXTINF:-1 tvg-id="CampusTV.honduras" tvg-logo="" group-title="Honduras",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal5ElLider.honduras",Canal 5 El Líder
+#EXTINF:-1 tvg-id="Canal5ElLider.honduras" tvg-logo="" group-title="Honduras",Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-
-#EXTINF:-1 tvg-id="Canal11.honduras",Canal 11
+#EXTINF:-1 tvg-id="Canal11.honduras" tvg-logo="" group-title="Honduras",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CholutecaTV.honduras",Choluteca TV
+#EXTINF:-1 tvg-id="CholutecaTV.honduras" tvg-logo="" group-title="Honduras",Choluteca TV
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-
-#EXTINF:-1 tvg-id="CHTV.honduras",CHTV
+#EXTINF:-1 tvg-id="CHTV.honduras" tvg-logo="" group-title="Honduras",CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DiosTeVe.honduras",Dios Te Ve
+#EXTINF:-1 tvg-id="DiosTeVe.honduras" tvg-logo="" group-title="Honduras",Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
-
-#EXTINF:-1 tvg-id="DiosTeVeKids.honduras",Dios Te Ve Kids
+#EXTINF:-1 tvg-id="DiosTeVeKids.honduras" tvg-logo="" group-title="Honduras",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-
-#EXTINF:-1 tvg-id="DiosTvTalanga.honduras",Dios Tv Talanga
+#EXTINF:-1 tvg-id="DiosTvTalanga.honduras" tvg-logo="" group-title="Honduras",Dios Tv Talanga
 https://tv.webmedialive.com/unciontv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EbenezerTV.honduras",Ebenezer TV
+#EXTINF:-1 tvg-id="EbenezerTV.honduras" tvg-logo="" group-title="Honduras",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EDNTV.honduras",EDN TV
+#EXTINF:-1 tvg-id="EDNTV.honduras" tvg-logo="" group-title="Honduras",EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GirasolTV.honduras",Girasol TV
+#EXTINF:-1 tvg-id="GirasolTV.honduras" tvg-logo="" group-title="Honduras",Girasol TV
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
-
-#EXTINF:-1 tvg-id="KerussoTV.honduras",Kerusso TV
+#EXTINF:-1 tvg-id="KerussoTV.honduras" tvg-logo="" group-title="Honduras",Kerusso TV
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
-
-#EXTINF:-1 tvg-id="LaTop1029.honduras",La Top 102.9
+#EXTINF:-1 tvg-id="LaTop1029.honduras" tvg-logo="" group-title="Honduras",La Top 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaTop1077.honduras",La Top 107.7
+#EXTINF:-1 tvg-id="LaTop1077.honduras" tvg-logo="" group-title="Honduras",La Top 107.7
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LencaTV.honduras",Lenca Television Canal 40
+#EXTINF:-1 tvg-id="LencaTV.honduras" tvg-logo="" group-title="Honduras",Lenca Television Canal 40
 https://lencatelevision.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="LitoralAtlanticoHD.honduras",Litoral Atlántico HD
+#EXTINF:-1 tvg-id="LitoralAtlanticoHD.honduras" tvg-logo="" group-title="Honduras",Litoral Atlántico HD
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
-
-#EXTINF:-1 tvg-id="MetroTV.honduras",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.honduras" tvg-logo="" group-title="Honduras",Metro TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-
-#EXTINF:-1 tvg-id="RadioOmegaTV.honduras",Omega TV
+#EXTINF:-1 tvg-id="RadioOmegaTV.honduras" tvg-logo="" group-title="Honduras",Omega TV
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioIdeal.honduras",Radio Ideal 104.7 FM La Esperanza
+#EXTINF:-1 tvg-id="RadioIdeal.honduras" tvg-logo="" group-title="Honduras",Radio Ideal 104.7 FM La Esperanza
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-id="ImagenFM1051.honduras",Radio Imagen 105.1 FM
+#EXTINF:-1 tvg-id="ImagenFM1051.honduras" tvg-logo="" group-title="Honduras",Radio Imagen 105.1 FM
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RCVTV.honduras",RCV TV
+#EXTINF:-1 tvg-id="RCVTV.honduras" tvg-logo="" group-title="Honduras",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SulaTV.honduras",Sula TV
+#EXTINF:-1 tvg-id="SulaTV.honduras" tvg-logo="" group-title="Honduras",Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telerayo.honduras",Telerayo
+#EXTINF:-1 tvg-id="Telerayo.honduras" tvg-logo="" group-title="Honduras",Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-
-#EXTINF:-1 tvg-id="TelevisionMetropolis191.honduras",Televisión Metrópolis 19.1
+#EXTINF:-1 tvg-id="TelevisionMetropolis191.honduras" tvg-logo="" group-title="Honduras",Televisión Metrópolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TelevisionOlanchana.honduras",Television Olanchana
+#EXTINF:-1 tvg-id="TelevisionOlanchana.honduras" tvg-logo="" group-title="Honduras",Television Olanchana
 https://viewhn.com/canal30/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENCanal10.honduras",TEN Canal 10
+#EXTINF:-1 tvg-id="TENCanal10.honduras" tvg-logo="" group-title="Honduras",TEN Canal 10
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
-
-#EXTINF:-1 tvg-id="TSi.honduras",TSi
+#EXTINF:-1 tvg-id="TSi.honduras" tvg-logo="" group-title="Honduras",Canal 5
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-
-#EXTINF:-1 tvg-id="TSi.honduras",TSi Alternativo
+#EXTINF:-1 tvg-id="TSi.honduras" tvg-logo="" group-title="Honduras",TSi Alternativo
 http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCentro272HD.honduras",TV Centro 27.2 HD
+#EXTINF:-1 tvg-id="TVCentro272HD.honduras" tvg-logo="" group-title="Honduras",TV Centro 27.2 HD
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCentroHD.honduras",TV Centro HD
+#EXTINF:-1 tvg-id="TVCentroHD.honduras" tvg-logo="" group-title="Honduras",TV Centro HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCopan.honduras",TV Copán
+#EXTINF:-1 tvg-id="TVCopan.honduras" tvg-logo="" group-title="Honduras",TV Copán
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV.honduras",VTV
+#EXTINF:-1 tvg-id="VTV.honduras" tvg-logo="" group-title="Honduras",VTV
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+
 
 
 
