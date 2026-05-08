@@ -526,3 +526,79 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 #EXTINF:-1 tvg-id="SuperQPanama.pa@SD" group-title="Panama",Súper Q Panamá
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve@SD" group-title="Venezuela",Anzoátegui TV (360p) [Not 24/7]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTATV.ve@SD" group-title="Venezuela",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-id="Canal21Tachira.ve@SD" group-title="Venezuela",Canal 21 Táchira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" group-title="Venezuela",Canal C Del Zulia
+https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.ve@SD" group-title="Venezuela",Canal Once
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+#EXTINF:-1 tvg-id="CatatumboTV.ve@SD" group-title="Venezuela",Catatumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.ve@SD" group-title="Venezuela",Fortuna TV
+https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve@SD" group-title="Venezuela",Guaro TV
+https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="IslaTV.ve@SD" group-title="Venezuela",Isla TV
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve@SD" group-title="Venezuela",KandelaTV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve@SD" group-title="Venezuela",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="LGDTelevision.ve@SD" group-title="Venezuela",LGD Television
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MasTalk.ve@SD" group-title="Venezuela",Más Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="NortenaTv.ve@HD" group-title="Venezuela",Norteña
+https://vs20.live.opencaster.com/nortena933fm_00010364/index.m3u8
+#EXTINF:-1 tvg-id="PlousTV.ve@SD" group-title="Venezuela",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve@SD" group-title="Venezuela",PortuTV
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve@SD" group-title="Venezuela",PromarTV
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve@SD" group-title="Venezuela",PromarTV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="ReformaTV.ve@SD" group-title="Venezuela",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="SiembraTV.ve@SD" group-title="Venezuela",Siembra TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-id="SomosTV.ve@SD" group-title="Venezuela",Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-id="TAMTV.ve@SD" group-title="Venezuela",TAM TV
+https://tv.webtuya.com:3726/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TAMTV.ve@SD" group-title="Venezuela",TAM TV
+https://tv.webtuya.com:3726/live/tammeridalive.m3u8
+#EXTINF:-1 tvg-id="Telecolor.ve@SD" group-title="Venezuela",Telecolor
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@SD" group-title="Venezuela",Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@English" group-title="Venezuela",Telesur English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" group-title="Venezuela",Telesur English HD
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@HD" group-title="Venezuela",Telesur HD
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" group-title="Venezuela",Televisora de Oriente
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-id="TNORadio.ve@SD" group-title="Venezuela",TNO Radio
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TorococoTV.ve@SD" group-title="Venezuela",Torococo TV
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-id="TRT.ve@SD" group-title="Venezuela",TRT
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMparati.ve@SD" group-title="Venezuela",TVM para ti
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1 tvg-id="UN24.ve@untv720" group-title="Venezuela",UN24
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+#EXTINF:-1 tvg-id="UniTV.ve@SD" group-title="Venezuela",UniTV
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve@SD" group-title="Venezuela",Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" group-title="Venezuela",Venevisión Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve@SD" group-title="Venezuela",Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
