@@ -85,6 +85,178 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id= tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png" group-title="Musica",UMTV | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="8NTV.mx@SD" group-title="Mexico",8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx@SD" group-title="Mexico",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="AlcanceTV.mx@SD" group-title="Mexico",Alcance TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" group-title="Mexico",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" group-title="Mexico",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="B15Fresnillo.mx@SD" group-title="Mexico",B15 Fresnillo
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 tvg-id="B15Zacatecas.mx@SD" group-title="Mexico",B15 Zacatecas
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx@SD" group-title="Mexico",California Medios TV
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD" group-title="Mexico",Canal 5 TV Cozumel
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 tvg-id="XHTTGTDT.mx@SD" group-title="Mexico",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Durango.mx@SD" group-title="Mexico",Canal 10 Durango
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" group-title="Mexico",Canal 15 ILCE Summa Sabres
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.mx@SD" group-title="Mexico",Canal 26 Aguascalientes
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33Tijuana.mx@SD" group-title="Mexico",Canal 33 Tijuana
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal44.mx@SD" group-title="Mexico",Canal 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-id="XHIJTDT.mx@SD" group-title="Mexico",Canal 44 Ciudad Juárez
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD" group-title="Mexico",Canal Parlamento del Congreso de Jalisco
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Capital21.mx@SD" group-title="Mexico",Capital 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx@SD" group-title="Mexico",Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-id="EclipseTV.mx@SD" group-title="Mexico",Eclipse TV
+https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
+#EXTINF:-1 tvg-id="ElSonorense.mx@SD" group-title="Mexico",El Sonorense
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+#EXTINF:-1 tvg-id="ExpresaTV.mx@SD" group-title="Mexico",Expresa TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IcrtvColima.mx@SD" group-title="Mexico",ICRTV Colima
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD" group-title="Mexico",IERTBCS Canal 8.2 La Paz
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 tvg-id="XHBZCTDT.mx@SD" group-title="Mexico",IERTBCS Canal 8 La Paz
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" group-title="Mexico",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx@SD" group-title="Mexico",Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" group-title="Mexico",Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" group-title="Mexico",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LoboTV.mx@SD" group-title="Mexico",Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVision.mx@SD" group-title="Mexico",María Visión Mexico
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx@SD" group-title="Mexico",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="MonteMaria.mx@SD" group-title="Mexico",Monte Maria
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+#EXTINF:-1 tvg-id="NayaritComunica.mx@SD" group-title="Mexico",Nayarit Comunica
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-id="XHFGLTDT.mx@SD" group-title="Mexico",Notigram TV
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 tvg-id="NueveTV.mx@SD" group-title="Mexico",Nueve TV San Luís Potosí
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx@SD" group-title="Mexico",Once México
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" group-title="Mexico",Presumiendo México
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PSN.mx@SD" group-title="Mexico",PSN
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 tvg-id="PSNCanal452.mx@SD" group-title="Mexico",PSN Canal 45.2
+https://srspsn2.live/live/livestream.m3u8
+#EXTINF:-1 tvg-id="RalyTV.mx@SD" group-title="Mexico",Raly TV
+https://cloudvideo.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-id="RCGTV.mx@SD" group-title="Mexico",RCG TV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="RCGTV.mx@SD" group-title="Mexico",RCG TV
+https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-id="RTG.mx@SD" group-title="Mexico",RTG
+https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" group-title="Mexico",RTQ Querétaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-id="XHUNESTDT.mx@SD" group-title="Mexico",Señal España
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT1.mx@SD" group-title="Mexico",SET Televisión Canal 26.1
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT2.mx@SD" group-title="Mexico",SET Televisión Canal 26.2
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
+#EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx@SD" group-title="Mexico",Sistema Michoacano de TV
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="XHZHZTDT.mx@SD" group-title="Mexico",SIZART Canal 24
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="SQCSCanal4.mx@SD" group-title="Mexico",SQCS Canal 4
+https://video0.rogohosting.com:19360/4982/4982.m3u8
+#EXTINF:-1 tvg-id="SuperChannel12.mx@SD" group-title="Mexico",Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 tvg-id="TeleSaltillo.mx@SD" group-title="Mexico",Tele Saltillo
+https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:-1 tvg-id="TeleUV.mx@SD" group-title="Mexico",Tele UV
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleYucatan.mx@SD" group-title="Mexico",Tele Yucatan
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" group-title="Mexico",TeleFórmula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="XEWHTDT.mx@SD" group-title="Mexico",Telemax
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" group-title="Mexico",Teleplay Sureste
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" group-title="Mexico",Teleplay Sureste
+https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx@SD" group-title="Mexico",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="TlaxcalaTV.mx@SD" group-title="Mexico",Tlaxcala Televisión
+https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
+#EXTINF:-1 tvg-id="TRCTV.mx@SD" group-title="Mexico",TRC Televisión
+https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
+#EXTINF:-1 tvg-id="TuristikTV.mx@SD" group-title="Mexico",Turistik TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBUAP.mx@SD" group-title="Mexico",TV BUAP
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVCuatro41.mx@SD" group-title="Mexico",TV Cuatro 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-id="TVCuatro42.mx@SD" group-title="Mexico",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-id="TVLobo.mx@SD" group-title="Mexico",TV Lobo Durango
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx@SD" group-title="Mexico",TV Mar La Paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarLosCabos.mx@SD" group-title="Mexico",TV Mar Los Cabos
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx@SD" group-title="Mexico",TV Mar Puerto Vallarta
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-id="XHMNLTDT.mx@SD" group-title="Mexico",TV Nuevo León Canal 28
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUG.mx@SD" group-title="Mexico",TV UG
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUJAT.mx@SD" group-title="Mexico",TV UJAT
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx@SD" group-title="Mexico",TVMÁS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" group-title="Mexico",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPLosMochis.mx@SD" group-title="Mexico",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" group-title="Mexico",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPObregon.mx@SD" group-title="Mexico",TVP Obregón
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UltraTVPuebla.mx@SD" group-title="Mexico",Ultra TV Puebla
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UMTV.mx@SD" group-title="Mexico",UMTV
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-id="UnisonTV.mx@SD" group-title="Mexico",Unison TV
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1 tvg-id="VBMediaTV.mx@SD" group-title="Mexico",VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="VisionTelevision.mx@SD" group-title="Mexico",Visión Televisión
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx@SD" group-title="Mexico",TUDN
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" group-title="Mexico",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD" group-title="Mexico",Canal 5
+http://185.56.109.253/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png" group-title="Mexico",Conecta TV ✪ | MX
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id= tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png" group-title="Mexico",8 NTV | MX
