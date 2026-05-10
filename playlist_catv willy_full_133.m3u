@@ -449,6 +449,7 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="VepacoTV.ve@SD" tvg-logo="" group-title="Venezuela",Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="BendicionChannel.co@HD" tvg-logo="" group-title="Cristianos",Bendicion Channel
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 #EXTINF:-1 tvg-id="BluRadio.co@SD" tvg-logo="" group-title="Deportes",Blu Radio
@@ -457,14 +458,8 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co@SD" tvg-logo="" group-title="Colombia",Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="" group-title="Colombia",Canal 2 Alpavisión Neiva
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="" group-title="Colombia",Canal 8 TV+
-https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="" group-title="Colombia",Canal 8 TV+
 https://video.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" tvg-logo="" group-title="Colombia",Canal 14 Codazzi
-https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD" tvg-logo="" group-title="Colombia",Canal 55 Telemorisco TV
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="" group-title="Colombia",Canal Calima TV
@@ -525,3 +520,4 @@ https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="" group-title="Colombia",Canal
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+
